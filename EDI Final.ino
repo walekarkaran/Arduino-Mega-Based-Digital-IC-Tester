@@ -1,7 +1,3 @@
-//Coding for IC_TESTER 
-//By Bhaskar Jyoti Borah
-//Tezpur University, Assam, India: 784028
-//For any queries, mail me at : bhaskarjborah5@gmail.com
 //SUPPORTED ICs (Manual): 4011, 4030, 4077, 4093, 4071, 4081,4001, 4070, 7266, 7402, 7401, 
 //4073, 4075, 4023, 4025, 7411, 5411, 7410, 7412, 7427, 4069, 7404, 7405, 7414, 7400, 74132,
 //7403, 7408, 7432, 7486, 5408, 5479, 7409, 5409, 4029, 4000, 74393, 7421, 5421, 7420, 4082, 
