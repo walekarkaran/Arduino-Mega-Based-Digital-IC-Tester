@@ -26,12 +26,7 @@ void loop()
 {
   int x=1;
   welcome();
-  my.erase();
-  my.string("By B.J.Borah",0,'c');
-  my.string("I.C. TESTER",2,'c');
-  my.string("-----------",3,'c');
-  my.string("cont",5,'l');
-  my.string("help",5,'r');   
+  my.erase(); 
   while(x)
   {
     key=inp.key_in();
